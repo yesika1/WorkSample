@@ -3,7 +3,7 @@
 ## Analytics Data challenge project
 
 
-The following work sample contains my solution for a data analysis challenge formulated in January 2018.  
+The following work sample contains my solution for a data analysis challenge.  
 
 * The data set for this challenge is simulated and so there is not a data dictionary (the project is more of a numerical / coding exercise).
 
