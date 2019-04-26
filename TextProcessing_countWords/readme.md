@@ -8,6 +8,6 @@ First, scraping the novel Les Misérables from the website Gutenberg.org using t
 
 Second, extracting text from this web data using BeautifulSoup.
 
-Third, extracting tokens/words and clean data: removing inwanted characters, transforming tokens into lowercase and excluding stop words.
+Third, extracting tokens/words and clean data: removing unwanted characters, transforming tokens into lowercase and excluding stop words.
 
 Finally, analyzing the distribution of words using the Natural Language ToolKit (nltk).
