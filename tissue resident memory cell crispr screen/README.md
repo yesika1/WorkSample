@@ -1,10 +1,9 @@
-# Credit Card Applications
+# Tissue Resident Memory Cell Crispr Screen
 
 
-The following work sample contains a credit card approval predictor for commercial banks using machine learning techniques.  
+The following project aims to determine critical genes for the formation of tissue-resident memory T cells against tumors.
 
-* For this project, the dataset was extracted from the UCI Machine Learning Repository Credit Card Approval dataset.
+* For this project, the datasets were extracted from 
 
-* The solution includes the final report, files and code in R and Python.
+* The solution includes files and code in Python.
 
-* The Report combines the performance of the model selected and a comparison with other models developed using metrics such as AUC, misclassification rate, among others.
