@@ -150,10 +150,10 @@ if __name__ == "__main__":
         #============================================================
         
         #path_1 = input("Enter the location of the first dataset file including: file name and extension -'dp-docs.txt': \n: ")
-        path_1 = '/files/GSM2386506_GEO2R_TRM_v_TN_Kupper.txt'
+        path_1 = '../files/GSM2386506_GEO2R_TRM_v_TN_Kupper.txt'
         
         #path_2 = input("Enter the location of the second dataset file (GPL file) including: file name and extension -'dp-docs.txt': \n: ")
-        path_2 = '/files/GPL16570-1802.txt'
+        path_2 = '../files/GPL16570-1802.txt'
         
         #input_skip_rows = input("Enter the number of rows to skip for the(GPL file), without the headers of the dataset: \n: ")
         input_skip_rows = 19
