@@ -354,13 +354,13 @@ def output_list_of_datasets(output_list_of_datasets, output_path, output_file_na
 #============================================================
 
 #path = input("Enter the folder location of the dataset files: \n: ")
-path = '/TRM_GeneArrays/input_files'
+path = '../TRM_GeneArrays/input_files'
 
 #columns_to_keep = input("Enter the name of the columns to keep for the GPL file: \n: ")
 columns_keep = ['GeneSymbol', 'mRNA_Accession', 'adj.P.Val', 'logFC']
 
 #output_path = input('\nEnter the location where you want to store the output file:\n ')
-output_path = '/TRM_GeneArrays/output_files'
+output_path = '../TRM_GeneArrays/output_files'
 
 
 # In[10]:
